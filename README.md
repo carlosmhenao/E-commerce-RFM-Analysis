@@ -22,6 +22,7 @@ Instead of treating all customers equally with expensive, mass-marketing campaig
   * **Matplotlib & Seaborn:** Data visualization and statistical graphics to present business insights.
   * **Jupyter Notebook / Google Colab:** Interactive environment for documenting the analysis process.
 
+![Customer Distribution by RFM Segment](IMG_0240.png)
 
 ## Business Insights & Strategic Recommendations
 
