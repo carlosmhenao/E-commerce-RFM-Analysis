@@ -16,7 +16,8 @@ Instead of treating all customers equally with expensive, mass-marketing campaig
 ## Methodology and Tools
 * **Data:** E-commerce transactional data (Invoices, Dates, Prices, Customer IDs).
 * **Methodology:** RFM Analysis to score customers from 1 to 5 across three key dimensions.
-* **Tools Used:** * **Python:** Core programming language for data processing.
+* **Tools Used:**
+  * **Python:** Core programming language for data processing.
   * **Pandas & NumPy:** Data cleaning, manipulation, and RFM metric calculation.
   * **Matplotlib & Seaborn:** Data visualization and statistical graphics to present business insights.
   * **Jupyter Notebook / Google Colab:** Interactive environment for documenting the analysis process.
